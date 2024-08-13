@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117081426110",
+    "project_id": "victorfonghu-9b3",
+    "storage_bucket": "victorfonghu-9b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117081426110:android:e5bbc00bb85396cf7c76ef",
+        "android_client_info": {
+          "package_name": "com.example.firebase_victordonghu_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG4lKI2GPePR3DihljyrYEWxsXhB8_DKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
